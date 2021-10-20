@@ -1,0 +1,22 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.658);
+    width: fit-content;
+    padding: 20px;
+}
+
+.butstyling{
+    background-color: red;
+    border-color: blue;
+    border-width: 5px;
+    border-radius: 10px;
+    height: 100px;
+    width: 500px;
+    font-size: xx-large;
+    color: white;
+}
